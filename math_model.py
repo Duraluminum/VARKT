@@ -39,7 +39,7 @@ beta = 0.0025             # Скорость изменения угла (рад
 
 g = 9.80665
 
-H = 8500.0
+H = 20000.0
 
 N = int(T_total / dt) + 1
 time = [i * dt for i in range(N)]
