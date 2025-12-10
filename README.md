@@ -5,4 +5,4 @@
 2) Зависимость скорости полёта от времени полёта.
 
 ## Ссылка на видео полета:
--https://drive.google.com/file/d/1sjCT8Sb1Z8ec2_dZZq2uJy58dUyDxDjw/view?usp=drivesdk
+https://drive.google.com/file/d/1sjCT8Sb1Z8ec2_dZZq2uJy58dUyDxDjw/view?usp=drivesdk
